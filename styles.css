@@ -1,13 +1,13 @@
 .header {
     font-weight: bold;
     text-align: center;
-    background-color: lightcyan;
+    
     
 }
 
 .header2
 {
-    background-color:lightcyan;
+    
     text-align: center;
 }
 
@@ -41,4 +41,8 @@
 {
 
     background-color:antiquewhite;
+}
+.header6
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
