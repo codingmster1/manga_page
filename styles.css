@@ -1,12 +1,13 @@
 .header {
     font-weight: bold;
     text-align: center;
+    background-color: lightcyan;
     
 }
 
 .header2
 {
-    background-color:antiquewhite;
+    background-color:lightcyan;
     text-align: center;
 }
 
