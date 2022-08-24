@@ -111,6 +111,8 @@ p{
 
 .quote
 {
+    color:#EEEEEE;
+    background-color:black;
     text-align:center;
     font-family: candara;
 }
